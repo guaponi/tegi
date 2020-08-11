@@ -3,8 +3,8 @@
 //|                        Copyright 2020, MetaQuotes Software Corp. |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright @axidentaltrader"
-#property link      "https://twitter.com/axidentaltrader"
+#property copyright "Buy me a coffee"
+#property link      "https://www.buymeacoffee.com/besibes"
 #property version   "1.1"
 #property strict
 #include <Telegram\Telegram.mqh>
